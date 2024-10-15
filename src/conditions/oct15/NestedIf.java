@@ -1,4 +1,4 @@
-package com.conditions.oct15;
+package conditions.oct15;
 
 public class NestedIf {
 

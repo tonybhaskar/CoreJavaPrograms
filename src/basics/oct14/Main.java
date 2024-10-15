@@ -1,4 +1,4 @@
-package com.basics.oct14;
+package basics.oct14;
 
 public class Main {
 

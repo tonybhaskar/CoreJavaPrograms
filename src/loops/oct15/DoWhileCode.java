@@ -1,4 +1,4 @@
-package com.loops.oct15;
+package loops.oct15;
 
 public class DoWhileCode {
 

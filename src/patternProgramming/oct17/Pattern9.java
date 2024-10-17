@@ -9,11 +9,11 @@ import java.util.Scanner;
  *  4    5
  *  5    5
  *  
- *  21 22 23 24 25
+ *  25 24 23 22 21
  *  *
  *  *
  *  *
- *  1 2 3 4 5 
+ *  5 4 3 2 1 
  */
 
 public class Pattern9 {

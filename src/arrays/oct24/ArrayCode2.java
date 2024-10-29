@@ -2,6 +2,10 @@ package arrays.oct24;
 
 import java.util.Scanner;
 
+/*
+ * 
+ */
+
 class ArrayOperations1{
 	
 	int arr[][];

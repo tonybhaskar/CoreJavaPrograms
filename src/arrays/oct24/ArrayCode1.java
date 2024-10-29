@@ -2,9 +2,12 @@ package arrays.oct24;
 
 import java.util.Scanner;
 
+
+
 class ArrayOperations{
 	int arr[];
 	
+//	int arr[] = new int[10];
 	Scanner sc = new Scanner(System.in);
 	
 	void createArray(int n) {
@@ -22,9 +25,11 @@ class ArrayOperations{
 	
 	void displayData() {
 		for(int i=0; i<arr.length; i++) {
+//			arr[0]
 			System.out.println("The marks of student no: "+(i+1)+" is = "+arr[i]);
 		}
 	}
+	
 	
 	
 }

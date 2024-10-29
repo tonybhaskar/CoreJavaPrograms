@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 class ArrayOperations{
 	int arr[];
+	
 	Scanner sc = new Scanner(System.in);
 	
 	void createArray(int n) {
@@ -24,6 +25,8 @@ class ArrayOperations{
 			System.out.println("The marks of student no: "+(i+1)+" is = "+arr[i]);
 		}
 	}
+	
+	
 }
 
 public class ArrayCode1 {

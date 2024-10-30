@@ -84,6 +84,8 @@ public class StoryCode {
 			System.out.println("sahil not having profit more than last year");
 		}
 		
+		sc.close();
+		
 	}
 
 }

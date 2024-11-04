@@ -20,12 +20,14 @@ class Person{
 		
 		System.out.println("Enter your uid: ");
 		uid = sc.nextDouble();
-//		sc.nextLine();
+		sc.nextLine();
 		System.out.println("Enter your address: ");
 		address = sc.nextLine();
 		
 		System.out.println("Enter your gender: ");
 		gender = sc.next();
+		
+		sc.close();
 		
 		
 	}

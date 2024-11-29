@@ -13,7 +13,6 @@ public class StringsCode2Obj {
 		
 		String s1 = new String("Tony");
 		String s2 = new String("Tony");
-		String s3 = new String("tony");
 		
 		// comparing the strings 
 		if(s1.equals(s2) == true) {

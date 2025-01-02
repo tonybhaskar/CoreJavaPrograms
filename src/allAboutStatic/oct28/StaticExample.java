@@ -10,7 +10,6 @@ class Farmer{
 	
 	static {
 		rate = 2.678;
-
 	}
 	
 	void collectData() {

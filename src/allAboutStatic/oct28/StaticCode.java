@@ -24,6 +24,9 @@ class Calculator{
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(c);
+		
+//		raise an error
+//		System.out.println(p);
 	}
 	
 	//Non static method
